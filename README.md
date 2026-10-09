@@ -50,7 +50,7 @@ Input:
 Explain Artificial Intelligence in simple English with three real-life examples.
 
 Output:
-<img width="947" height="656" alt="pro assistant output2 " src="https://github.com/user-attachments/assets/058f51aa-2372-4f2c-a318-bcc89987df83" />
+<img width="947" height="656" alt="pro assistant output2 " src="https://github.com/user-attachments/assets/5d3d5c35-9151-469a-8b52-9a2be207e441" />
 
 Future Enhancements
 Add more prompt engineering techniques.
