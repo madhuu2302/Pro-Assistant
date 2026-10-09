@@ -50,7 +50,7 @@ Input:
 Explain Artificial Intelligence in simple English with three real-life examples.
 
 Output:
-<img width="947" height="656" alt="pro assistant output2 " src="https://github.com/user-attachments/assets/220539cc-0ef3-4ab8-8682-1b2717b1ca01" />
+<img width="947" height="656" alt="pro assistant output2 " src="https://github.com/user-attachments/assets/058f51aa-2372-4f2c-a318-bcc89987df83" />
 
 Future Enhancements
 Add more prompt engineering techniques.
@@ -58,6 +58,7 @@ Improve response handling and error management.
 Add conversation history.
 Support downloading generated responses.
 Improve the user interface.
+
 Author
 
 Madhumitha U
